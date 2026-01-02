@@ -15,7 +15,7 @@
 * Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 #### Ответ к заданию 1
-![Задание 1](https://github.com/Anthony13375/zabbix_2/blob/main/img/zadanie1.png)
+![Задание 1](https://github.com/Anthony13375/zabbix_2/blob/main/img/Zadanie1.png)
 
 
 ---
@@ -47,7 +47,7 @@
 * Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 #### Ответ к заданию 3
-![Задание 2-3](https://github.com/Anthony13375/zabbix_2/blob/main/img/zadanie2-3.png)
+![Задание 2-3](https://github.com/Anthony13375/zabbix_2/blob/main/img/Zadanie2-3.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -60,4 +60,4 @@
 * Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 #### Ответ к заданию 4
-![Задание 4](https://github.com/Anthony13375/zabbix_2/blob/main/img/zadanie4.png)
+![Задание 4](https://github.com/Anthony13375/zabbix_2/blob/main/img/Zadanie4.png)
